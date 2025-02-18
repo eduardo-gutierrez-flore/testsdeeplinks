@@ -7,7 +7,8 @@
             "namespace": "com.greenmovies",
             "package_name": "com.greenmovies",
             "sha256_cert_fingerprints": [
-                "28:5F:FD:59:D0:D5:F3:7D:33:2D:BA:3F:EA:3F:8C:85:B6:2C:7F:13:24:74:A9:90:61:A5:49:72:5F:F9:B0:DC"
+                "28:5F:FD:59:D0:D5:F3:7D:33:2D:BA:3F:EA:3F:8C:85:B6:2C:7F:13:24:74:A9:90:61:A5:49:72:5F:F9:B0:DC",
+                "D6:07:72:E8:20:E7:06:03:16:6A:15:D3:8A:3E:DC:00:60:ED:E7:A8:77:90:A8:B9:11:7E:09:E3:2B:93:6F:EA"
             ]
         }
     }
